@@ -17,3 +17,13 @@ public class PositiveNegative {
             System.out.println(number + " is 0.");
     }
 }
+# developer 2 added code
+
+    class Main {
+  public static void main(String[] args) {
+
+    // print the absolute value
+    System.out.println(Math.abs(-7.89));
+
+  }
+}
