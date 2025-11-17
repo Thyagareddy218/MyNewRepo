@@ -17,6 +17,7 @@ public class PositiveNegative {
             System.out.println(number + " is 0.");
     }
 }
+<<<<<<< Updated upstream
 # developer 2 added code
 
     class Main {
@@ -27,3 +28,9 @@ public class PositiveNegative {
 
   }
 }
+=======
+
+new code by dev 1 without pull the code
+
+
+>>>>>>> Stashed changes
